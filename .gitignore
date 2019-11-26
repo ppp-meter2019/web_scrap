@@ -1,0 +1,15 @@
+./node_modules/
+./package-lock.json
+./db.sqlite3
+p_env/
+.idea/
+.DS_Store
+*.sqlite3
+media/
+*.pyc
+*.db
+*.pid
+# django migrations
+**/migrations/**
+!**/migrations
+input-data.xlsx
